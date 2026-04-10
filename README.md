@@ -1,6 +1,6 @@
 # Chirag Rathi
 
-I am 17. Two preprints under review at *Foundations of Physics* (Springer Nature). Builder of spacecraft safety systems and autonomous flight software. The same rigor that goes into the physics goes into the code.
+ Researcher with two preprints under review at *Foundations of Physics* (Springer Nature). Builder of spacecraft safety systems and autonomous flight software. The same rigor that goes into the physics goes into the code.
 
 ---
 
