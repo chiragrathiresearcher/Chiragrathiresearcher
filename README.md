@@ -17,8 +17,6 @@ From Nothing to Never — A journey through the universe's entire story, from th
 
 ## Systems
 
-[ARVS](https://github.com/chiragrathiresearcher/ARVS) — Adaptive Robust Verification System. 25 frozen axioms across 9 categories. Non-bypassable authority layer for spacecraft and rover autonomy. Validated against NASA REMS, NASA SPICE, ESA Mars Express, and ISS OSDR telemetry. `DOI: 10.5281/zenodo.19023905`
-
 [ATLAS](https://github.com/chiragrathiresearcher/ATLAS) — Autonomous Launch and Termination Architecture System. 1 kHz C++17 real-time control loop. 19-state EKF. Triple-redundant IMU voting. RTOS-ready. `DOI: 10.5281/zenodo.19039518`
 
 [M17](https://github.com/chiragrathiresearcher/M17) — K-Framework for autonomous celestial discovery using decommissioned orbital assets. C++17, Fortran, Rust, CUDA. Post-Newtonian relativistic corrections. `DOI: 10.5281/zenodo.18910231`
